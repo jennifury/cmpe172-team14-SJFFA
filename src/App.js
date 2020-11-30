@@ -2,8 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function Login(){
-  if(document.forms["login"].username.value == "hi"
-  && document.forms["login"].password.value == "nice"){
+  if(document.forms["login"].username.value == "terry"
+  && document.forms["login"].password.value == "123"){
     alert("nice")
   } else
     alert("Please try again")
