@@ -1,3 +1,8 @@
+/*main  setup*/
+body{
+  background: #123f96;
+}
+
 .App {
   text-align: center;
 }
@@ -14,12 +19,7 @@
 }
 
 .App-header {
-  background-image: url("dino.gif");
-    background-size: 1800px;
-    width: 1536px;
-    height: 630px;
-    
-  background-color: #122324;
+  background: linear-gradient(to right, #6795f0,#470f63);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -40,4 +40,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/*navigation*/
+.navbar {
+  overflow: hidden;
+  background-color: #87859c;
+  position: fixed;
+  top: 0;
+  width: 99%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #f1f1f1;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #229826;
+  color: white;
+}
+
+.content {
+  background-color: #FFF;
+  padding: 40px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
 }

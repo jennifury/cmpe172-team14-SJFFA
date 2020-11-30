@@ -1,41 +1,42 @@
 import logo from './logo.svg';
 import './App.css';
+import React, { Component } from "react";
+import {
+  Route,
+  NavLink,
+  HashRouter
+} from "react-router-dom";
+import Home from "./Home";
+import Fossils from "./fossils";
+import Contact from "./contact_us";
 
-function Login(){
-  if(document.forms["login"].username.value == "terry"
-  && document.forms["login"].password.value == "123"){
-    alert("nice")
-  } else
-    alert("Please try again")
-}
 
-function App() {
+
+class App extends Component {
+
+render(){
   return (
+    <HashRouter>
     <div className="App">
-      <header className="App-header">
+      <header>
+      <div class="navbar">
+      <ul className="header">
+        <NavLink exact to="/">Home</NavLink>
+        <NavLink to="/fossils">Fossils</NavLink>
+        <NavLink to="/contact_us">Contact</NavLink>
+         </ul>
+      </div>
 
-        Welcome to the San Jose Fictional Fossil Archive
-        <br></br><br></br>
-        Please log in with your employee credentials.
-        <br></br>
-        <i>Don't remember? Talk to your supervisor.</i>
-        <br></br><br></br>
-
-        <form id="login">
-
-        <label for="username">Username: </label>
-        <input type="text" id="username"/>
-        <br></br>
-        <label for="password">Password: </label>
-        <input type="text" id="password"/>
-        
-        <br></br>
-        <button type="button" onClick={Login}>Log in</button>
-        
-        </form>
       </header>
+      <div className="content">
+          <Route exact path="/" component={Home}/>
+          <Route path="/fossils" component={Fossils}/>
+          <Route path="/contact_us" component={Contact}/>
+
+      </div>
     </div>
+    </HashRouter>
   );
 }
-
+}
 export default App;
