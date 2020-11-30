@@ -14,7 +14,12 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("dino.gif");
+    background-size: 1800px;
+    width: 1536px;
+    height: 630px;
+    
+  background-color: #122324;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
