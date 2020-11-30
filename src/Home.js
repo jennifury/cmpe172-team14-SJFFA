@@ -15,7 +15,7 @@ class Home extends Component {
       <div className="App-header">
 
       Welcome to the San Jose Fictional Fossil Archive
-      <img src={logo} className="App-logo" alt="logo" width="200" />
+
      Please log in with your employee credentials
      <i>Don't remember? Talk to your supervisor.</i>
      <br></br><br></br>
