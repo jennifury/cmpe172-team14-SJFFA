@@ -55,9 +55,25 @@ body{
 }
 
 .content h2 {
+    position: top;
   padding: 0;
   margin: 0;
 }
 .content li {
   margin-bottom: 10px;
+}
+.fossilgal{
+    padding-top: 50px;
+    border-radius: 5px;
+}
+.contact{
+    padding-top: 50px;
+}
+img{
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+span{
+    padding-left: 0px;
+    padding-bottom: 10px;
 }
