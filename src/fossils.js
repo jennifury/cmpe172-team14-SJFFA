@@ -23,17 +23,17 @@ render(){
       
         <a href= "https://www.adventureexperience.co.uk/blog/dinosaur-fossils/">
             <img src="/dinos/1.jpg" alt = ""/>
-            <p> $60 </p>
+            <p> Johnny Smith $60 </p>
         </a>
 
       <a href= "https://www.wyomingpublicmedia.org/post/are-dinosaur-fossils-minerals-any-other-federal-court-says-yes">
             <img src="/dinos/2.jpg" alt = ""/>
-            <p> $50 </p>
+            <p> George Davis $50 </p>
       </a>
       
       <a href= "https://www.britannica.com/animal/dinosaur">
       <     img src="/dinos/3.jpg" alt = ""/>
-            <p> $100 </p>
+            <p> Paul Walker $100 </p>
       </a>
       
       <a href = "https://www.tripadvisor.com/LocationPhotoDirectLink-g191249-d585694-i349441717-Dinosaur_Isle-Sandown_Isle_of_Wight_England.html">
