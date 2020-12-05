@@ -5,6 +5,8 @@ This project for the SJSU course: Enterprise Software (CMPE 172 Fall 2020)
 Our project is titled the San Jose Fictional Fossil Archive (SJFFA). The key features of this project are for users to browse through a fossil gallery, with each fossil having a description of where it was discovered and other information, and to support fossils that users like by claiming them with a donation.
 ## Screenshots
 
+### Homepage
+![alt text] (https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc1.png)
 ## How to Run the Application
 
 In the project directory, you can run:
