@@ -13,8 +13,11 @@ Our project is titled the San Jose Fictional Fossil Archive (SJFFA). The key fea
 ### Logged In 
 ![alt text](https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc2.png)
 
+### Sign IN
+![alt text](https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc3.png)
 
-
+### Gallery 1
+![alt text](https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc4.png)
 
 ## How to Run the Application
 
