@@ -3,6 +3,11 @@
 This project for the SJSU course: Enterprise Software (CMPE 172 Fall 2020)
 ## Introduction
 Our project is titled the San Jose Fictional Fossil Archive (SJFFA). The key features of this project are for users to browse through a fossil gallery, with each fossil having a description of where it was discovered and other information, and to support fossils that users like by claiming them with a donation.
+### Built by:
+Timothy Hodge
+Theron Myers
+Jennifer Yang
+
 ## Screenshots
 
 ### Homepage
@@ -13,10 +18,11 @@ Our project is titled the San Jose Fictional Fossil Archive (SJFFA). The key fea
 ### Logged In 
 ![alt text](https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc2.png)
 
-### Sign IN
+### Fossil Gallery
 ![alt text](https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc3.png)
+![alt text](https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc5.png)
 
-### Gallery 1
+### Contact Us
 ![alt text](https://raw.githubusercontent.com/jennifury/cmpe172-team14-SJFFA/main/public/screenshot/sc4.png)
 
 ## How to Run the Application
@@ -56,32 +62,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
