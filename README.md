@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# San Jose Fictional Fossil Archive (SJFFA)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project for the SJSU course: Enterprise Software (CMPE 172 Fall 2020)
 ## Available Scripts
 
 In the project directory, you can run:
